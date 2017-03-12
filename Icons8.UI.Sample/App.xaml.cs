@@ -8,9 +8,6 @@ using System.Windows;
 
 namespace Icons8.UI.Sample
 {
-    /// <summary>
-    /// Логика взаимодействия для App.xaml
-    /// </summary>
     public partial class App : Application
     {
     }

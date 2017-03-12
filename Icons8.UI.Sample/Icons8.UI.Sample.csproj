@@ -100,6 +100,10 @@
       <Project>{1ad1e676-0a5b-46d0-8ba2-6de3c83a5eac}</Project>
       <Name>Icons8.UI</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Icons8_WPF_Search_iOS\Icons8.UI.SearchIcon.iOS\Icons8.UI.SearchIcon.iOS.csproj">
+      <Project>{9d69f105-0dfe-46eb-bafc-775d19d88135}</Project>
+      <Name>Icons8.UI.SearchIcon.iOS</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
