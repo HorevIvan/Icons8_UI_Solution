@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icons8.UI.SearchIcon.iOS", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icons8.UI.Sample", "Icons8.UI.Sample\Icons8.UI.Sample.csproj", "{C8D7E3D9-3C9D-44CC-AC21-1DDEE23A0C66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icons8.UI.PackageTest", "Icons8.UI.PackageTest\Icons8.UI.PackageTest.csproj", "{CB89685E-03D4-4144-AA57-4B41F4234BB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C8D7E3D9-3C9D-44CC-AC21-1DDEE23A0C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D7E3D9-3C9D-44CC-AC21-1DDEE23A0C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D7E3D9-3C9D-44CC-AC21-1DDEE23A0C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB89685E-03D4-4144-AA57-4B41F4234BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB89685E-03D4-4144-AA57-4B41F4234BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB89685E-03D4-4144-AA57-4B41F4234BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB89685E-03D4-4144-AA57-4B41F4234BB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

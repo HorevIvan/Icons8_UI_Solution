@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Icons8.UI.Sample"
-        xmlns:iOS="clr-namespace:Icons8.UI.iOS;assembly=Icons8.UI.SearchIcon.iOS" x:Class="Icons8.UI.Sample.MainWindow"
+        x:Class="Icons8.UI.Sample.MainWindow"
         mc:Ignorable="d"
         Title="Icons8 WPF Sample" Height="350" Width="525">
     <Grid>
@@ -12,7 +12,6 @@
             <TabItem Header="Search">
                 <TabControl>
                     <TabItem Header="iOS">
-                        <iOS:SearchIconControl />
                     </TabItem>
                 </TabControl>
             </TabItem>
